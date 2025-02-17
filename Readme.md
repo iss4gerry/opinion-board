@@ -53,4 +53,4 @@ npm run preview
 
 ---
 
-Made with ❤️ by [Your Name](https://github.com/iss4gerry)
+Made with ❤️ by [Gerry](https://github.com/iss4gerry)
