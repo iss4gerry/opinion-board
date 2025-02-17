@@ -1,0 +1,25 @@
+{
+  "opinions": [
+    {
+      "id": 1,
+      "votes": 4,
+      "userName": "Mayuyu",
+      "title": "Life is Strange is an Emotional Rollercoaster!",
+      "body": "Life is Strange is one of the most emotional and thought-provoking games I’ve ever played. The characters feel so real, and the choices you make actually matter. Highly recommend it to fans of narrative-driven games!"
+    },
+    {
+      "id": 2,
+      "votes": 1001,
+      "userName": "Gerry",
+      "title": "The World of RDR2 Feels Alive",
+      "body": "Every town, every forest, every NPC in Red Dead Redemption 2 feels alive. It’s a testament to Rockstar’s dedication to creating an immersive open-world experience."
+    },
+    {
+      "id": 3,
+      "votes": 7,
+      "userName": "Surtr",
+      "title": "Rust is a Game Changer in Systems Programming",
+      "body": "Rust is revolutionizing systems programming. Its combination of performance and safety without a garbage collector is incredible. Memory safety without sacrificing performance is what makes Rust stand out."
+    }
+  ]
+}
